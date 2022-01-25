@@ -23,6 +23,8 @@ http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3
 http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",TLC HD
 http://50.7.34.155:2201/BR/TLC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU" group-title="SPORT",COMBATE SD
+https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=wRDol5ajYHi&app_ver=10101&auth_id=58857612_com.global.brasiltvweb&client_ip=45.179.28.210&user_id=58857612&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=c0d5e7ac&expired=1643088289&token=B39297475C78E194A93BC23F1242B6C6&media_code=m3_kxiCuVcr9XvcEbXgX_480p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEyz5WzAZKjY1d0KbdVFA_FDNs_dlnF6NQA&usqp=CAU" group-title="SPORT",COMBATE
 http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-2-logo-CADCF9B84B-seeklogo.com.png" group-title="FILMES",STAR HITS 2 HD
@@ -37,3 +39,7 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
 #EXTINF:-1 tvg-logo="" group-title="",ENCANTO
 https://nowaynaw1.s3.us-central-1.wasabisys.com/cdnespecial5/Encanto.DUB.2021.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprMj7HvSBIM9lvI5CdzHZeRkva_KFhULEAA&usqp=CAU" group-title="FILMES",SPACE HD
+http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NMnOfYY9PJuw5E9sn_jk4C9zTbmdGgnleg&usqp=CAU" group-title="ANIMES",DRAGON BOLL GT 
+http://24h.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487?token=ThFQWRYNFA8aBQ8PVFYDVAMJWldfVF9TAlYGVVJcVVYEB1oPVVcABVwUFRUVQUIAVF1nDV0QA1MFBloBThoRQVBBZ1EBRwwXDAYOBEQZEhFcXV1GAwMPVQQDVgZQD1IeF0NRXEdfFAcJBQgBRBkSAE1EXRZXU1U+U1cUXwFdRghbRlRUSUdZW2dSXFoHW1RHDxIIRhUQUBJHEFhYF1QIHhdRUUwXBEJQGgwbA1UHEkkXU1cRV0ZLGBUIQHQwGkgQUEtMXQsWX1pWFAMVEkYSSRdZSztLV0oVRVcDWwdKRggXAxoURwhXTWdVVlkIUFMRXF9WFxsIG1MGAlIUThoJXVtaTFcXOkZcXBQDFVAGCVMXTQ==
