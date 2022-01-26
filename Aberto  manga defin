@@ -13,6 +13,8 @@ http://50.7.34.155:2200/BR/Star_Hits_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCnd
 http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="NOVELAS",VIVA HD
 http://50.7.34.155:2201/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=nullR
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET SD
+http://50.7.34.155:2201/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO",ANIMAL PLANET HD
 http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://www.sbp.com.br/fileadmin/_processed_/5/e/csm_NAtional_Geographic_27b97cc75d.png" group-title="DOCUMENTÁRIO",NETGEO GEOGRAPHIC
@@ -49,3 +51,5 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
 http://187.33.200.246:8888/http/005
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGTcZumcFAmJNy6fV-8lABrYnOKjlYlOTHA&usqp=CAU" group-title="DOCUMENTÁRIO",DISCOVERY HD
 http://50.7.34.155:2201/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",ANIMAL PLANET SD
+http://50.7.34.155:2201/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
