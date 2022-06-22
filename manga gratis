@@ -1,0 +1,606 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=23523532526262345232685==/247?token=QkRfV0JaQV5AAlBTBAZVUVAJCAQBUAoLA1FaAF5QWAsIUQQDBlRbUQRBSBJDQRNQVF1uWVcXCQoGVBVDTUIES2YPUxQLEFJGTkEQWV1QQw8EBgQBBQMADgJbFUNIWAUbA0QGAwEAV0ZOQQFIRFATW1RcblRWQ1pbV0EDD01dDRUbCVlpVVcOBQwHRgoSBUMZF1lCQBEPXU1eDxVDWlgVS1gSUhQLEFJWU1dGHBJWDkBbRENJEQ8RemBBFUNdSRVcVxVeWV8QWUYWEEYcElwSakdVQkRBUFJVVxEbWxoBQxUbC1ZOblEMCgwGB0RZWg9GFwoTABEZEVVdDVAVV0M+SVACFQwTA1ZSW1ZGTQ==
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
+http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",VIVA HD
+http://187.85.237.31:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",VIVA 
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
+http://187.85.237.3:8220/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
+http://187.85.237.3:8220/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
+http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
+http://168.205.87.198:8555/live/aleixo/123456/70.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
+http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/1065
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO PR
+http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD 
+http://187.85.237.3:8220/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
+http://appcliente.com:8880/edu21/edu21/16716?checkedby
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM 
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
+#EXTINF:-1 tvg-logo="" group-title="",SBT 
+http://170.82.200.35:80/sbt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1955458263_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD
+http://168.205.87.198:8555/live/adriana/123456/104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT MT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1698838283_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT AO VIVO
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1732543709.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV ABERTA", SBT HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1817693431_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT MT
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT S
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
+http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
+https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/chunklist_w870723429.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AGRO BRASIL
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AMERICA TERROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AWC CANAL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND SP
+http://170.82.200.35:80/band/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
+http://168.205.87.198:8555/live/aleixo/123456/176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
+http://168.205.87.198:8555/live/aleixo/123456/174.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GNT 
+http://190.15.32.30:80/6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WOOHOO
+http://168.205.87.198:8555/live/adriana/123456/141.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HGTV
+http://190.15.32.30:80/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HGTV
+http://ms5.ddns.me:8805/live/HGTV/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OFF HD
+http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",CURTA
+http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",CURTA
+http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV
+http://pfsv.io:80/07720253/51853/350
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD z
+http://pfsv.io:80/07720253/51853/179
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
+http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX
+http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET 
+http://suatela-server.b-cdn.net/live/animalplanet/chunks.m3u8?token=EZPi6XfzxXpnokPf_vs08kd4rbgTVdjncaeF0Kr6KE0&expires=1649860506
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO 
+http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO 
+http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC z
+http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
+http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_EL3INMRQYpPjqHTGoiB5OhcX_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
+#EXTINF:-1 tvg-logo="https://www.sbp.com.br/fileadmin/_processed_/5/e/csm_NAtional_Geographic_27b97cc75d.png" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
+http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXAbs0jsNzc82QVFGi9exEjWOVVqsaENmpg&usqp=CAU" group-title="DOCUMENTÁRIO", NETGEO WILD
+http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
+http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAldfUQcGDwBRUg1VUAECAVdVAlZSAAcFDgwIVgkXGUNHFxRXAllmXVYVDgdRCFBJExAQBBM+D1IbDxtTAgcAVg1BShAXXVRREA0FAFAJV1UGUVdRTUMWX10XA0cGDA1VFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRTUxBPFlpbR1lARB0SXEdzN0FNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcGUAxVRE8=
+#EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 7
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGTcZumcFAmJNy6fV-8lABrYnOKjlYlOTHA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY HD
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TV tp
+http://143.244.35.146:80/HD_DISCOVERY/video.m3u8?token=e0b3901d7f0619440fa90f5e006c071ab7b0ce7d34052d3f5375ddc38f631d52.1650280473130.f10a313e7de67472e332aab64f6b5bdd
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY max
+http://45.232.196.7:5000/live/DISCOVERY/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
+http://suatela-server.b-cdn.net/live/discoverychannel/chunks.m3u8?token=ARNSr2j_qxSnvs3jeopiZA23IMXu2X7w4CdfYYP_wnE&expires=1650095404
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
+http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 0
+http://pfsv.io:80/07720253/51853/196
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
+http://190.15.32.30:80/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE MAX
+http://45.232.196.7:5000/live/DISCOSCI/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
+http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
+http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",Smith channel
+http://168.205.87.198:8555/live/aleixo/123456/173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A&E
+http://190.15.32.30:80/9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A&E
+http://200.4.96.59:8002/play/a0e9/47654322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A&E HD
+http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", DISCOVERY ID z
+http://suatela-server.b-cdn.net:80/live/idinvestigacaodiscovery/chunks.m3u8?token=HylKVuNc1xn6OtipwS7CphtkN-tw8x3KMpD03jGQt4c&expires=1649861728
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY ID
+http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO MAX
+http://45.232.196.7:5000/live/DISCTUR/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO z
+http://suatela-server.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=cFjUTQ5drESTatZ5koHeThiZOyx89M1X-xa-8VrfIPo&expires=1649861728
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
+http://50.7.34.155:2201/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD 
+http://143.244.35.146:80/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=2cbdd399e3a155d29a948c106e4ff67cd4b4287ec3a4c1971e66039abe3f164b.1649117891528.f10a313e7de67472e332aab64f6b5bdd
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD
+http://50.7.34.155:2201/BR/Discovery_World_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
+http://190.15.32.30:80/5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
+http://50.7.34.155:2201/BR/Discovery_Theater_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
+http://189.16.194.19:8010/01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
+http://189.16.194.19:8010/01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
+http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",O FACINANTE MUNDO DOS CORAIS
+http://lionflixapp.xyz:80/server/token-fhd3/?u=token/04/tt15753666.mp4
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD
+http://190.15.32.30:80/10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-3.png" group-title="DOCUMENTÁRIO", HISTÓRI HD
+http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD MAX 
+http://187.85.237.32:8825/ipvt_007
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
+http://190.15.32.30:80/14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
+http://170.82.200.35:80/tlc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
+http://ms5.ddns.me:8805/live/TLC/720p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD
+http://170.82.200.35:80/tlc/tracks-v1a1/mono.m3u8
+
+
+
+
+
+GET
+ HTTP://BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q==,1641804427.7609871579 
+
+
+HTTP/1.1
+User-Agent: REDLINECLIENT Xiaomi Mi Note 10 1.0.02
+Accept-Encoding: gzip
+Host: 31.172.87.52:2200
+Connection: Keep-Alive
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE1
+http://phru6b.lkg1fl1pt.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?app_ver=10101&dev_limit=1&client_ip=88.165.142.7&session_id=Bb39fh29tI2C&user_id=16804528&auth_id=16804528_com.global.brasiltvweb&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&dev_id=9855e858&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649824024&token=981A76928E53E9BAE484E95C5FDFB6D9&media_code=m3_kxiCuVcr9XvcEbXgX_480p
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_480p
+EXTINF:-1 tvg-logo=""
+group-title="SPORT",COMBATE HD
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://190.15.32.30:80/106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STAR HD
+http://189.16.194.19:8010/10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
+http://190.15.32.30:80/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/329
+#EXTINF:-1 tvg-logo="" group-title="",STAR
+http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="" group-title="FILMES", WARNER CHANNEL HD
+http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX z
+http://suatela-server.b-cdn.net/live/megapix/chunks.m3u8?token=UanOltph9OiK8kyUlVldxwpNIIszg5cFiYBHqoySy-g&expires=1649862195
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX z
+http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
+https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
+http://190.15.32.30:80/50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SPACE z
+http://suatela-server.b-cdn.net/live/space/chunks.m3u8?token=halSrgglRj9Cohfjajm1O5sFvTrJ2nzlyZMfyWvMBn8&expires=1649862195
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 0
+http://phru6b.lkg1fl1pt.com/v3/youshi/m4_ymZnQGTRxLhgzKBYlOekpfso_480p.m3u8?client_ip=88.165.142.7&app_ver=10101&user_id=16804528&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&session_id=DY9CpxCbB2oN&app_id=com.global.brasiltvweb&dev_id=351563d3&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&main_addr=http://ruwbe3.kkile1web.com/v3/youshi/&rst_status=0&expired=1650596525&token=6A875690B96BC1000906B4CD474E469C&media_code=m4_ymZnQGTRxLhgzKBYlOekpfso_480p
+#EXTINF:-1 tvg-logo="" group-title="",SPACE
+http://170.82.200.35:80/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTprMj7HvSBIM9lvI5CdzHZeRkva_KFhULEAA&usqp=CAU" group-title="FILMES", SPACE HD
+http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 
+http://170.82.200.35:80/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
+http://origin-02.nxplay.com.br:80/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
+http://187.85.237.34:8825/ipvt_003
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD MAX
+https://cdn.connectbr.com.br/lifetime/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD
+http://187.85.237.32:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
+http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AXN HD
+http://187.85.237.8:8825/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX
+http://190.15.32.30:80/109/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX
+http://ms2.ddns.me:8802/live/FXHD/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT HD
+http://ms4.ddns.me:8804/live/TNTHD/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT 
+http://tvusa.ddns.net:25461/valdinei.alves79@gmail.com/d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db/359
+#EXTINF:-1 tvg-logo="" group-title="",TNT SPORT 
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE 
+http://cdn.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",G PLUS
+http://143.244.35.175:25461/isaiascanchis/2qppP9BVsX/780?token=DpbAEEOFAYFVVUOAB
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT+
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
+http://170.82.200.38:80/paramount/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
+https://assistirtv.xyz/paramount/video.m3u8?token=45a5cd59985b54cccbd80f57428456882f71a30c-425b691399d4871578ebe9024f38ee12-1648779724-1648776124&remote=172.68.177.130
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD 
+http://172.106.19.174:80/HD_PARAMOUNT_ALTER/mpegts?token=27f3babf1583d5e9f6a1eb92359a71d757e0c941fbda4057c112df13269121c5.1649211002303.94a2d48cf11e6dd073bf61c944b87d27
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
+http://190.15.32.30:80/116/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
+http://190.15.32.30:80/117/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
+http://187.85.237.25:8825/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://190.15.32.30:80/118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
+http://190.15.32.30:80/114/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
+http://187.85.237.26:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 
+http://190.15.32.30:80/113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
+http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
+http://190.15.32.30:80/115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE
+http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE EMOTION
+http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4519
+#EXTINF:-1 tvg-logo="" group-title="",TVCINE TOP
+http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4521
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
+http://190.15.32.30:80/115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
+http://187.85.237.3:8220/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://190.15.32.30:80/118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
+http://187.85.237.34:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 
+http://187.85.237.34:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2
+http://50.7.34.155:2201/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP
+http://50.7.34.155:2201/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO+
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
+http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
+http://50.7.34.155:2201/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
+http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO HD
+http://200.4.96.59:8003/play/a023/28389146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2
+http://50.7.34.155:2201/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP
+http://50.7.34.155:2201/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
+http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
+http://50.7.34.155:2201/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
+http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",HBO 
+http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY 
+http://23.237.190.122:25461/evasquez/ev2021fwk/182?token=HhdaAEBZEQgUAFsIVlMBAwBSBwVXV1AFBVJWAwADB15RDQYFBgAACldEThtDEEAHUQ9uXgURDwUOA00WRUADFDpcVkMJEwABBFFVARJIEBZZD1QVWwIDAA8AWQMCBlZKR0VbBRELEQoAU1IbHEZXGkQHQ1kAX2pQU0cIV1URXAgQWV5NEV5dbVIDD1heABBYElITG0NaRkQUCw9BXF9KRAdcRhNSRVYQDERQDgFVEE4SAV5CD0dHTRQLQ3ZiEUpEAE1GBF1CWl1YRFgbRBcQThILQmgTVkZARFQAWVVBRFxHBRBNEVxSSmkFDVdeAVEWWQ1fREMJFwYUHUNZX10PEgpHbRFaVREIFFRaCwZGTw==
+#EXTINF:-1 tvg-logo="" group-title="",HBO 
+http://200.4.96.59:8003/play/a023/32144039.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
+http://200.4.96.59:8002/play/a0ez/22472001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
+http://200.4.96.59:8002/play/a0ez/86002009.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX HD
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2201/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://190.15.32.30:80/13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://50.7.34.155:2201/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://187.85.237.5:8222/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",SYFY
+http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",SYFY
+http://190.15.32.30:80/13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SYFY
+http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://187.85.237.5:8222/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://187.85.237.5:8222/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",SYFY
+http://50.7.34.155:2201/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",SYFY
+http://190.15.32.30:80/99/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
+http://187.85.237.31:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
+http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
+http://187.85.237.31:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
+http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL
+http://190.15.32.30:80/17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL
+http://187.85.237.31:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL HD
+http://170.82.200.38:80/comedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
+http://50.7.34.155:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
+http://168.205.87.198:8555/live/aleixo
+#EXTINF:-1 tvg-logo="" group-title="",MULTISHOW 
+http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",MTV
+http://cdn2.connectbr.com.br:80/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIS
+http://50.7.34.155:2200/BR/BIS_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",MTV
+http://187.85.237.8:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",MULTISHOW
+http://187.85.237.26:8825/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
+http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", WARNER CHANNEL HD
+http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS HD
+http://200.4.96.59:8003/play/a02r/49031090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS
+http://200.4.96.59:8003/play/a02r/75397587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS
+http://172.106.112.82:2082/daniel7805/8494017805/18018?token=TkBfVBAOEV5BUQIGUlUHUloMUg0EAVdQWQFVBVcGAFYGVAMMAFYEVgARTxVHQkQDWFVoXVNAX1MAAVAITRVHFlAQaFwHRAlGUgNaBQIAFEobTF5ZUkBfUw4FWAFZAQNVA04VRQoCEV5BAlMHBgcUShtdT0BSEAsDVG4FVRdeUQAXWFlADwofRgxdPFNRW1cIXRoNFgdASUBRQhESW1lHCVlOFVcKEkEFF1ZBDRYOA1cbFBVXWBcLFkpIQwpDdWBHGUBSTRcDXRcKXA0VDhRCFRsUFV1EPRcHS0UTVQBaVxcXWBUFQUoRCQJLPFRbWFgDWkxeW1kRR1gaAEMcQ1pdC1wWWEc8FloAQQlBAwYEAERE
+#EXTINF:-1 tvg-logo="" group-title="",mkk
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12101f0b12f00007844c7c/3063648/playlist.m3u8?return&terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=07b16472-d071-4d2e-ad98-ab98754a4428&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",TRAVEL
+http://ms5.ddns.me:8805/live/TRAVEL/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PRIME
+http://ms5.ddns.me:8805/live/PRIME/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TCM
+http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-logo="" group-title="",E!
+http://187.85.237.34:8825/ipvt_004
+#EXTINF:-1 tvg-logo="" group-title="",CRIS 24H
+#EXTINF:-1 tvg-logo="" group-title="",JOÃO KLEBER 
+http://187.85.237.31:8825/ipvt_001
+#EXTINF:-1 tvg-logo="" group-title="",O FACINANTE MUNDO DOS CORAIS
+http://lionflixapp.xyz:80/server/token-fhd3/?u=token/04/tt15753666.mp4
+#EXTINF:-1 tvg-id=""logo="" group-title="",
+http://212.102.60.67:80/live/ceka78/ceka287/43860.m3u8?token=RE44d0tYazl4UXlwTk5m
+#EXTINF:-1 tvg-id=""logo="" group-title="",BABY SHART
+https://newidco-babysharktv-2-mx.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MUNDO VIAGEM 
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m1_2LIrTCQ1mvJKo4U7Me0sylfz_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m1_2LIrTCQ1mvJKo4U7Me0sylfz_480p
+#EXTINF:-1 tvg-logo="" group-title="",LIKE HD
+http://phru6b.lkg1fl1pt.com:80/v3/youshi/m4_GqFJ0aOt0pVJZxaDc2Xl_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m4_GqFJ0aOt0pVJZxaDc2Xl_720p
+#EXTINF:-1 tvg-logo="" group-title="",SUPER STOM
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",DRAMA
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f80007bafb1d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",SUSPENCE
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",RA TIM BUM
+http://168.205.87.198:8555/live/adriana/123456/84.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CULT
+http://168.205.87.198:8555/live/aleixo/123456/30.m3u8
+http://168.205.87.198:8555/live/aleixo/123456/30.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",loading
+http://168.205.87.198:8555/live/aleixo/123456/142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KIDS
+http://168.205.87.198:8555/live/aleixo/123456/143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ANIMES
+http://168.205.87.198:8555/live/aleixo/123456/146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CHAVES
+http://168.205.87.198:8555/live/aleixo/123456/159.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SERIES CLASSICAS
+http://168.205.87.198:8555/live/aleixo/123456/160.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",
+http://168.205.87.198:8555/live/aleixo/123456/162.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",YAHOOH
+http://168.205.87.198:8555/live/aleixo/123456/193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",
+http://168.205.87.198:8555/live/aleixo/123456/195.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FONDOM TV
+http://168.205.87.198:8555/live/aleixo/123456/197.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NICK
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NICKELODEON
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",BOOB
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/47?token=QkRfV0JaQV5ABgEACAMAUA0DBFQDAlIIBQAIBA8AAAkLAwIOVwtSAVFBSBJDQRNQVF1uWVcXCQwFTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYCDgpPGxFRVUMDG1UGBgEHQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1ZWU0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClNTQB4=
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids z
+http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=7959782&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIyIDE6Mjk6NDUgQU0maGFzaF92YWx1ZT1TOFVCbWIxYTRLQm95Nk1aV25oRi9nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids 
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/43?token=QkRfV0JaQV5AVVJUVQxTUVcAVAkDA1BeAgIOVwoIA1gKUFNTBwtWVQBBSBJDQRNQVF1uWVcXCQwBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYBAABPGxFRVUMDG1cPBQMFQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1pSUkFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFBVtdQB4=
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL o
+http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=8148914&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6Mjg6NDUgQU0maGFzaF92YWx1ZT1UWGdwOEtuQlVtQWJRMEZGQS9QcmN3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
+http://189.16.194.19:8010/02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/48?token=QkRfV0JaQV5AAQcHCQJRAAJUBVNVDVdeBQEPVgABAlgKAwRSBwIABQRBSBJDQRNQVF1uWVcXCQwKTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQEHDQVPGxFRVUMDG1QOAgUCQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1BcVUFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClJVQB4=
+#EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
+http://190.15.32.30:80/8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TOON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:-1 tvg-logo="" group-title="",TOONCAST HD 
+http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/51?token=QkRfV0JaQV5AAVEJVFdYAVRUCQkKUQQOVAULV1wGVghcBQFQCAcGXAdBSBJDQRNQVF1uWVcXCQ0DTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQIHDQdPGxFRVUMDG1QPDgcDQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1dcW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClFdQB4=
+#EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
+http://190.15.32.30:80/86/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
+http://187.85.237.26:8825/ipvt_006
+#EXTINF:-1 tvg-logo="" group-title="",NICK
+http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
+http://50.7.34.155:2201/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
+http://50.7.34.155:2201/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
+http://50.7.34.155:2201/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
+http://187.85.237.26:8825/ipvt_006
+#EXTINF:-1 tvg-logo="" group-title="",PALAVRAS 
+http://187.85.237.26:8825/ipvt_003
+#EXTINF:-1 tvg-logo="" group-title="",Jackie cham
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",Jackie cham
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",SERIES NETFLIX 
+http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491?token=HRpcWENeFw0WVVRVBQgHUQgGBwcBDApRBVINAAcDVgJeXgQNAg8GAgIWTUcSRUcDUFhoCgcbCFUEBw0LBBtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ACAAMG0dCD1wWAxIEBwAAFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBgVRVEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVTU1UTSA==
+#EXTINF:-1 tvg-logo="" group-title="",filme clássico 
+http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137495?token=HRpcWENeFw0WUFYHUlUGAAlWVFtRXQpVUwENUVFSXAMAWVEPCFNUBQ0WTUcSRUcDUFhoCgcbCFUEBw0LABtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ADQIFG0dCD1wWAxIEBgIDFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBQVXXEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVSUVYTSA==
+#EXTINF:-1 tvg-logo="" group-title="",UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w985115768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CON
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SPORTS TV
+https://cdn1.xvideosporn.me/p2p/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjIgNjoyMzozMCBBTSZoYXNoX3ZhbHVlPVk4OFFCS3A3WUZYWE56dzRmMHMvZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 1
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 2
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 3
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 4
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 5
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 6
+http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/6.mp4
+#EXTINF:-1 tvg-logo="" group-title="",Homem aranha 
+https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="" group-title="",MORBIUS
+http://authentic-video.cloud:80/suzan07.php?b=seguro/dub/526896.mp4
+#EXTINF:-1 tvg-logo="" group-title="",TOP GUN MAVERIK
+http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/361743.mp4
+#EXTINF:-1 tvg-logo="" group-title="",NAO CONFIE EM NINGUÉM A CAÇA CONTINUA DO REI DA CRIPTOMOEDA
+http://server-fhd03.lionflixapp.xyz:80/token/04/tt15479902.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO 
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO 
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO 
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x6.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x7.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x8.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO
+http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x9.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
+http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",3 TONELADAS 
+http://shd07.lionflixapp.xyz/token/SHD7/158762/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",3 TONELADAS 
+http://shd07.lionflixapp.xyz/token/SHD7/158762/1-2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",3 TONELADAS
+http://shd07.lionflixapp.xyz/token/SHD7/158762/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",DOUTOR ESTRANHO E ARQUIMERO DA LOUCURA
+http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/453395.mp4
